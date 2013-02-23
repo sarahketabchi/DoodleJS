@@ -4,12 +4,6 @@ var Doodle = (function () {
     var fromPos = undefined;
     var toPos = undefined;
 
-
-    var prevX = 0;
-    var prevY = 0;
-    var currX = 0;
-    var currY = 0;
-
     var drawing = false;
     var that = this;
 
